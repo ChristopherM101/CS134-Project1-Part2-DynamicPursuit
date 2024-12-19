@@ -1,0 +1,8 @@
+<?xml version="1.0"?>
+<Player_Settings>
+	<Energy>13</Energy>
+	<Speed>400</Speed>
+	<Scale>0.5</Scale>
+	<Rotation_Speed>120</Rotation_Speed>
+	<Show_heading>0</Show_heading>
+</Player_Settings>
